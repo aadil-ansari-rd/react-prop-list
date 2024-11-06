@@ -5,17 +5,17 @@ import App1 from "./App1.jsx";
 
 let students = [
   {
-    name: "arjun",
+    name: "Arjun",
     age: 22,
     marks: 78,
   },
   {
-    name: "aparna",
+    name: "Aparna",
     age: 24,
     marks: 89,
   },
   {
-    name: "sarthak",
+    name: "Sarthak",
     age: 26,
     marks: 69,
   },
