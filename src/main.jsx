@@ -55,7 +55,7 @@ let employees = [
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <App1 students={students} />
-    <hr />
+    <hr /><hr />
     <App employees={employees} />
   </StrictMode>
 );

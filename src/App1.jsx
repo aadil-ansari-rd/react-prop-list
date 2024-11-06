@@ -12,6 +12,7 @@ function App(props) {
         </div>
       ))}
       <hr />
+      <hr />
       <h1>Student List Method 2</h1>
       {props.students.map((student, index) => (
         <div key={index}>
